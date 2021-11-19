@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hyeongmin Moon
 
-<!--
-**HyeongminMoon/HyeongminMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a AI engineer mainly about computer vision.
 
-Here are some ideas to get you started:
+For me, Development does not happen just in computer. Development means All actions that present a solution when a problem is given, and if the real action is more appropriate than the code, I prefer to adopt it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Projects
+My Projects are represented in here with visionality: templink
+
+### Tech Stack
+* (Language/Script) Python, C/C++/C#, SQL, Javascript/HTML/CSS
+* (Vision/AI Tool) Pytorch, Opencv, Tensorflow, Tflite, Tensorflow js(+Converter), Onnx, Keras
+* (Vision/AI Skills) Generate image(GAN), Multi Label Classification, Image Silmilarity, Object Dection, Object tracking, Segmentation 
+* (Platform/Framework) Django, Flask, MongoDB, MySQL, Redis, Nodejs, React
+* (Server/Linux) Google Cloud Services, Docker, Kubernetes, Nginx, Gunicorn, Shell Script
+
+### Contact
+* E-mail: mohomin123@gmail.com
+* LinkedIn: templink
