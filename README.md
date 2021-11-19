@@ -12,6 +12,7 @@ My Projects are represented in here with visionality: templink
 * (Language/Script) Python, C/C++/C#, SQL, Javascript/HTML/CSS
 * (Vision/AI Tool) Pytorch, Opencv, Tensorflow, Tflite, Tensorflow js(+Converter), Onnx, Keras
 * (Vision/AI Skills) Generate image(GAN), Multi Label Classification, Image Silmilarity, Object Dection, Object tracking, Segmentation 
+* (AI Skills) Voice Activity Detection, Quatization, Convert pretrained model(Pytorch, tf, onnx, etc)
 * (Platform/Framework) Django, Flask, MongoDB, MySQL, Redis, Nodejs, React
 * (Server/Linux) Google Cloud Services, Docker, Kubernetes, Nginx, Gunicorn, Shell Script
 
