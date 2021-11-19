@@ -1,6 +1,6 @@
 # Hyeongmin Moon
 
-I am a AI engineer mainly about computer vision.
+I am a AI engineer mainly researching about computer vision.
 
 For me, Development does not happen just in computer. Development means All actions that present a solution when a problem is given, and if the real action is more appropriate than the code, I prefer to adopt it.
 
