@@ -9,8 +9,8 @@ For me, Development does not happen just in computer. Development means All acti
 My Projects are represented in here with visualization: templink
 
 ### Tech Stack
-* (Language/Script) Python, C/C++/C#, SQL, Javascript/HTML/CSS
-* (Vision/AI Tool) Pytorch, Opencv, Tensorflow, Tflite, Tensorflow js(+Converter), Onnx, Keras
+* (Language/Script) Python, C/C++/C#, SQL
+* (Vision/AI Tool) Pytorch, Opencv, Tensorflow, Tflite, Onnx
 * (Vision/AI Skills) Generate image(GAN), Multi Label Classification, Image Silmilarity, Object Dection, Object tracking, Segmentation 
 * (AI Skills) Voice Activity Detection, Quatization, Convert pretrained model(Pytorch, tf, onnx, etc)
 * (Platform/Framework) Django, Flask, MongoDB, MySQL, Redis, Nodejs, React
@@ -18,4 +18,4 @@ My Projects are represented in here with visualization: templink
 
 ### Contact
 * E-mail: mohomin123@gmail.com
-* LinkedIn: templink
+* LinkedIn: https://www.linkedin.com/in/hyeongmin-moon-09aaa3164/
