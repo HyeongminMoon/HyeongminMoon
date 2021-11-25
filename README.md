@@ -6,7 +6,7 @@ For me, Development does not happen just in computer. Development means All acti
 
 
 ### Projects
-My Projects are represented in here with visualization: templink
+My Projects are represented below pinned projects
 
 ### Tech Stack
 * (Language/Script) Python, C/C++/C#, SQL
