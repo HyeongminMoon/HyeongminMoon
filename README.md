@@ -6,7 +6,7 @@ For me, Development does not happen just in computer. Development means All acti
 
 
 ### Projects
-**[Web Portfolio](https://hyeongminmoon.github.io/)**
+**[Web Portfolio & Blog](https://hyeongminmoon.github.io/)**
 
 My Projects are below pinned projects
 
