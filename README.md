@@ -11,10 +11,11 @@ For me, Development does not happen just in computer. Development means All acti
 My Projects are below pinned projects
 
 ### Tech Stack
-* (Language/Script) Python, C/C++/C#, SQL
-* (Vision/AI Tool) Pytorch, Opencv, Tensorflow, Tflite, Onnx
-* (Vision/AI Skills) Generate image(GAN), Multi Label Classification, Image Silmilarity, Object Dection, Object tracking, Segmentation 
-* (AI Skills) Voice Activity Detection, Quatization, Convert pretrained model(Pytorch, tf, onnx, etc)
+* (Language/Script) Python, C/C++/C#, SQL, JavaScript
+* (Vision/AI Tool) Pytorch, Opencv, Tensorflow, Tflite, Onnx, etc
+* (Data Tool) Numpy, Pandas, Albumentations
+* (Vision/AI Skills) Generate image(GAN), CNN, Classification, Silmilarity, Detection, Tracking, Segmentation 
+* (Other AI Skills) NLP, Voice Activity Detection, Quatization, Model-Convert
 * (Platform/Framework) Django, Flask, MongoDB, MySQL, Redis, Nodejs, React
 * (Server/Linux) Google Cloud Services, Docker, Kubernetes, Nginx, Gunicorn, Shell Script
 
