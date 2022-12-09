@@ -9,7 +9,7 @@ For me, Development does not happen just in computer. Development means All acti
 <kbd>![Education_Skills](https://user-images.githubusercontent.com/32811724/206066611-3231bdd2-fa7c-4699-86c7-8f07c185af70.png)</kbd>
 
 ### Projects
-**[Web Portfolio & Blog](https://hyeongminmoon.github.io/)**
+**[Web Portfolio & Blog](https://hyeongminmoon.github.io/)** last updated: 2022.02
 
 ### Contact
 * E-mail: mohomin123@gmail.com
