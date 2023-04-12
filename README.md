@@ -4,6 +4,11 @@
 I am a AI engineer mainly researching about computer vision.
 
 For me, Development does not happen just in computer. Development means All actions that present a solution when a problem is given, and if the real action is more appropriate than the code, I prefer to adopt it.
+#### Recent interests
+- Knowledge distillation
+- Dataset(Image) Generation
+- Few-shot learning using big-models(GPT, Stable Diffusion, etc)
+- Few-data learning using CrossValidation & Stacking Ensemble
 
 ### Education & Skills
 <kbd>![Education_Skills](https://user-images.githubusercontent.com/32811724/206066611-3231bdd2-fa7c-4699-86c7-8f07c185af70.png)</kbd>
