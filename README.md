@@ -9,6 +9,7 @@ For me, Development does not happen just in computer. Development means All acti
 - Dataset(Image) Generation
 - Few-shot learning using big-models(GPT, Stable Diffusion, etc)
 - Few-data learning using CrossValidation & Stacking Ensemble
+- **[More Interests sorted by category](https://github.com/HyeongminMoon?tab=stars)**
 
 ### Education & Skills
 <kbd>![Education_Skills](https://user-images.githubusercontent.com/32811724/206066611-3231bdd2-fa7c-4699-86c7-8f07c185af70.png)</kbd>
