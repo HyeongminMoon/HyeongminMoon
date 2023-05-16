@@ -16,7 +16,7 @@ For me, Development does not happen just in computer. Development means All acti
 
 ### Projects
 **[Web CV](https://mohomin.notion.site/mohomin/d0b18c9ace81452c97fe4c3ab0a8037d)** last updated: 2023.03
-**[Web Portfolio](https://mohomin.notion.site/mohomin/4fcf2f8f5ebd46bdb7724ab16d1afada)** last updated: 2023.04
+**[Web Portfolio](https://mohomin.notion.site/mohomin/4fcf2f8f5ebd46bdb7724ab16d1afada)** last updated: 2023.05
 
 ### Contact
 * E-mail: mohomin123@gmail.com
