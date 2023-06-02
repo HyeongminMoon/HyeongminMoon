@@ -1,13 +1,13 @@
 # Hyeongmin Moon
 
 ### Intro
-I am a AI engineer mainly researching about computer vision.
+I am a AI engineer mainly researching about computer vision. Recently researching Diffusion Models, Large Language Models and theirs Quantization methods too.
 
 For me, Development does not happen just in computer. Development means All actions that present a solution when a problem is given, and if the real action is more appropriate than the code, I prefer to adopt it.
 #### Recent interests
-- Knowledge distillation
-- Dataset(Image) Generation
 - Few-shot learning using big-models(GPT, Stable Diffusion, etc)
+- Finetuning LLMs(full-finetuning, LoRA, QLoRA)
+- Large model Quantization into 4bit(GPTQ, PTQ on DM)
 - Few-data learning using CrossValidation & Stacking Ensemble
 - **[More Interests sorted by category](https://github.com/HyeongminMoon?tab=stars)**
 
