@@ -5,10 +5,11 @@ I am a AI engineer mainly researching about computer vision. Recently researchin
 
 For me, Development does not happen just in computer. Development means All actions that present a solution when a problem is given, and if the real action is more appropriate than the code, I prefer to adopt it.
 #### Recent interests
-- Train/Inference speed optimization for big-models(Llama, GPT, Stable Diffusion, etc)
+- Train/Inference speed optimization for big-models(exllama, Stable Diffusion, vllm, etc)
 - Finetuning LLMs(full-finetuning, LoRA, QLoRA)
-- Large model Quantization into 4bit(GPTQ, PTQ on DM)
+- Large model Quantization into 4bit(GPTQ, AWQ)
 - Few-data learning using CrossValidation & Stacking Ensemble
+- MoE (Mixture of Experts)
 - **[More Interests sorted by category](https://github.com/HyeongminMoon?tab=stars)**
 
 ### Education & Skills
