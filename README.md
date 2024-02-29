@@ -25,6 +25,3 @@ For me, Development does not happen just in computer. Development means All acti
 
 #### github stat
 ![github_stat](https://github-readme-stats.vercel.app/api?username=HyeongminMoon&show_icons=true&theme=gruvbox)
-
-#### leetcode stat
-![leetcode_stat](https://leetcard.jacoblin.cool/HyeongminMoon?ext=activity)
