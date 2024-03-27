@@ -13,7 +13,7 @@ For me, Development does not happen just in computer. Development means All acti
 - **[More Interests sorted by category](https://github.com/HyeongminMoon?tab=stars)**
 
 ### Education & Skills
-<kbd>![Education_Skills](https://github.com/HyeongminMoon/HyeongminMoon/assets/32811724/a919e895-79f6-4719-b565-8b913c8e7fc0)</kbd>
+<kbd>![Skills_202403](https://github.com/HyeongminMoon/HyeongminMoon/assets/32811724/21c2ed80-1679-4510-9ec0-869f94ac7a9e)</kbd>
 
 ### Projects
 **[Web CV](https://mohomin.notion.site/mohomin/d0b18c9ace81452c97fe4c3ab0a8037d)** last updated: 2023.03
