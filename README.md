@@ -24,8 +24,7 @@ I thrive in collaborative environments where technical excellence meets practica
 <kbd>![Skills_202403](https://github.com/HyeongminMoon/HyeongminMoon/assets/32811724/21c2ed80-1679-4510-9ec0-869f94ac7a9e)</kbd>
 
 ## 📂 Projects
-- **[Web CV](https://mohomin.notion.site/mohomin/d0b18c9ace81452c97fe4c3ab0a8037d)** last updated: 2024.05
-- **[Web Portfolio](https://mohomin.notion.site/mohomin/4fcf2f8f5ebd46bdb7724ab16d1afada)** last updated: 2024.05
+- **[Web Portfolio](https://mohomin.notion.site/mohomin/4fcf2f8f5ebd46bdb7724ab16d1afada)** last updated: 2025.03
 
 ## 🌟 Philosophy
 Development happens beyond computers. When faced with a problem, I choose the most effective solution—whether it's code or real-world action. This approach guided me in developing the Korean small Language Model (sLLM) and creating the on-device abnormal behavior detection solution for Samsung Display.
