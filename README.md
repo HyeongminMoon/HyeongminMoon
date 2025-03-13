@@ -1,15 +1,24 @@
 # Hyeongmin Moon
 
 ### Intro
-I am a AI engineer mainly researching about computer vision. Recently researching Diffusion Models, Large Language Models and theirs Quantization methods too.
+Experienced AI Engineer | LLM Specialist | Optimization Expert
 
-For me, Development does not happen just in computer. Development means All actions that present a solution when a problem is given, and if the real action is more appropriate than the code, I prefer to adopt it.
+With 5 years of hands-on experience across diverse AI domains, I specialize in developing optimized solutions that balance technical innovation with practical implementation. 
+
+My recent work has focused on AI-driven image pre-translation pipelines, where I successfully reduced translation and OCR costs by 96% and 75% respectively while improving pipeline inference speed by 20%.
+
+My engineering philosophy extends beyond coding: I believe development means finding the most appropriate solution to any problem—whether that's elegant code or a strategic process change. This approach guided me in developing a Korean small Language Model (sLLM) that reduced VRAM requirements by 43% and training time by 51%, and in creating an on-device abnormal behavior detection solution for Samsung Display that achieved 97% facial recognition accuracy while reducing memory usage by 90%.
+
+I thrive in collaborative environments where technical excellence meets practical business outcomes, constantly seeking the optimal path between theoretical possibilities and implementable solutions.
+
+Open to discussing AI optimization challenges, Agentic LLM applications, and breakthrough approaches in computer vision and NLP.
+
 #### Recent interests
 - Train/Inference speed optimization for big-models(exllama, Stable Diffusion, vllm, etc)
 - Finetuning LLMs(full-finetuning, LoRA, QLoRA)
 - Large model Quantization into 4bit(GPTQ, AWQ)
 - Few-data learning using CrossValidation & Stacking Ensemble
-- MoE (Mixture of Experts)
+- Agentic LLM
 - **[More Interests sorted by category](https://github.com/HyeongminMoon?tab=stars)**
 
 ### Education & Skills
